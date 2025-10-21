@@ -1,10 +1,10 @@
 Malak Faiz | Étudiante Ingénieure en Cybersécurité & Cloud
 
-<a href="https://www.linkedin.com/in/malakfaiz" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
+<a href="https://www.linkedin.com/in/malak-faiz-4962aa217/" target="_blank">
+<img src="https://www.bing.com/th/id/OIP.6uTQ7mOjYOD2sNKxUdnaNAHaHa?w=184&h=211&c=8&rs=1&qlt=90&o=6&cb=12&dpr=1.2&pid=3.1&rm=2" alt="LinkedIn Badge"/>
 </a>
 <a href="mailto:malak.faiz@usmba.ac.ma">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge"/>
+<img src="https://www.bing.com/th/id/OIP.IpB5yPUkCFHOzlmM-O7ncAHaFW?w=293&h=211&c=8&rs=1&qlt=90&o=6&cb=12&dpr=1.2&pid=3.1&rm=2" alt="Email Badge"/>
 </a>
 
 👩‍💻 À propos de moi
