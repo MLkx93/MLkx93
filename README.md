@@ -1,78 +1,71 @@
-Malak Faiz | Étudiante Ingénieure en Cybersécurité & Cloud
+# 👩‍💻 Malak Faiz | Étudiante Ingénieure en Cybersécurité & Cloud
 
-<a href="https://www.linkedin.com/in/malak-faiz-4962aa217/" target="_blank">
-<img src="https://www.bing.com/th/id/OIP.6uTQ7mOjYOD2sNKxUdnaNAHaHa?w=184&h=211&c=8&rs=1&qlt=90&o=6&cb=12&dpr=1.2&pid=3.1&rm=2" alt="LinkedIn Badge"/>
-</a>
-<a href="mailto:malak.faiz@usmba.ac.ma">
-<img src="https://www.bing.com/th/id/OIP.IpB5yPUkCFHOzlmM-O7ncAHaFW?w=293&h=211&c=8&rs=1&qlt=90&o=6&cb=12&dpr=1.2&pid=3.1&rm=2" alt="Email Badge"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malakfaiz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malak.faiz@usmba.ac.ma)
 
-👩‍💻 À propos de moi
+---
 
-Passionnée par la stratégie de cybersécurité et la sécurisation des transformations numériques, je suis une future ingénieure spécialisée en Réseaux, Cloud et Sécurité. Mon objectif est de traduire des enjeux techniques complexes en stratégies de sécurité robustes et alignées sur les objectifs métier.
+## 🌟 À propos de moi  
 
-🔭 Actuellement en 5ème année à l'École Nationale des Sciences Appliquées (ENSA) de Fès.
+Passionnée par la **cybersécurité**, le **cloud computing** et la **stratégie numérique**, je suis une future ingénieure déterminée à renforcer la **confiance numérique** dans les entreprises.  
+Mon ambition est de **concilier expertise technique et vision stratégique** pour accompagner les organisations dans la sécurisation de leurs infrastructures et transformations digitales.  
 
-🌱 Je me spécialise dans l'architecture de sécurité, la conformité (ISO 27001, RGPD) et l'analyse de risques (EBIOS RM).
+🎓 Étudiante en 5ème année à l’**École Nationale des Sciences Appliquées (ENSA) de Fès**  
+☁️ Spécialisation : **Réseaux, Cloud & Sécurité**  
+💡 Objectif : Devenir **Consultante en Cybersécurité & Confiance Numérique** en France  
+💬 Langues : Français (avancé), Anglais (professionnel), Arabe (natif)  
 
-🎯 Mon ambition : développer mon expertise en architecture et stratégie de cybersécurité dans un contexte international.
+---
 
-💬 Langues : Français (Avancé), Anglais (Professionnel), Arabe (Langue maternelle).
+## 🛠️ Compétences & Outils  
 
-🛠️ Mes Outils & Compétences
+### 🔐 Conseil & Stratégie Cybersécurité  
+- Analyse de risques : **EBIOS RM**, **ISO 27005**, **NIST**
+- Gouvernance et conformité : **ISO 27001**, **RGPD**
+- Élaboration de stratégies de sécurité et gestion de crise  
 
-Conseil & Stratégie Cybersécurité:
-Analyse de Risques ISO 27001/27005 EBIOS RM NIST RGPD Stratégie de Sécurité Gestion de Crise
-
-Sécurité Technique & Opérationnelle:
-
+### 🧰 Sécurité Technique & Opérationnelle  
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Wazuh-00A4EF%3Fstyle%3Dfor-the-badge%26logo%3Dwazuh%26logoColor%3Dwhite" alt="Wazuh"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Burp_Suite-FF7A1F%3Fstyle%3Dfor-the-badge%26logo%3Dburp-suite%26logoColor%3Dwhite" alt="Burp Suite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Nmap-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnmap%26logoColor%3Dwhite" alt="Nmap"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Wireshark-1679A7%3Fstyle%3Dfor-the-badge%26logo%3Dwireshark%26logoColor%3Dwhite" alt="Wireshark"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/pfSense-B80000%3Fstyle%3Dfor-the-badge%26logo%3Dpfsense%26logoColor%3Dwhite" alt="pfSense"/>
+<img src="https://img.shields.io/badge/Wazuh-00A4EF?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF7A1F?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/pfSense-B80000?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense"/>
 </p>
 
-Cloud & Virtualisation:
-
+### ☁️ Cloud & Virtualisation  
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Amazon_AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VMware-607078%3Fstyle%3Dfor-the-badge%26logo%3Dvmware%26logoColor%3Dwhite" alt="VMware"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
 </p>
 
-Langages & Systèmes:
-
+### 💻 Langages & Systèmes  
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Bash-4EAA25%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dwhite" alt="Bash"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-🚀 Projets Notables
+---
 
-Projet
+## 🚀 Projets Notables  
 
-Description
+| Projet | Description | Technologies |
+|:--|:--|:--|
+| **Home-Lab SOC Simulation (Wazuh)** | Conception et déploiement d’un **SIEM cloud** (Wazuh) pour la détection et la réponse aux incidents en temps réel. | Wazuh • AWS • pfSense • Snort |
+| **unsynchronized-JWT-claims** | Exploitation d’une **vulnérabilité JWT** démontrant une élévation de privilèges due à des claims non synchronisés. | Python • JWT • Pentesting • Sécurité Web |
+| **Deloitte Cyber Simulation** | Simulation d’un scénario de **réponse à incident** : analyse de logs, identification d’activités suspectes, et rédaction de rapports. | Python • Analyse de Logs • Gestion de Crise |
 
-Technologies
+---
 
-Home-Lab-SOC-Simulation-Wazuh
+## 🎯 En résumé  
 
-Conception et déploiement d'une architecture SIEM sur le cloud pour la surveillance, la détection et la réponse à incident en temps réel.
+> 🌍 Une ingénieure en devenir, alliant **rigueur technique** et **vision stratégique**, avec un engagement fort pour la **sécurité du cloud** et la **protection des données**.  
+>  
+> 💭 “Ma mission : aider les organisations à bâtir une cybersécurité de confiance, durable et humaine.”
 
-Wazuh SIEM AWS pfSense Snort
+---
 
-unsynchronized-JWT-claims...
-
-Laboratoire d'exploitation d'une vulnérabilité d'escalade de privilèges due à des claims JWT non synchronisés. Démontre des compétences en sécurité applicative.
-
-Python JWT Pentesting Sécurité Web
-
-deloitte-cyber-simulation
-
-Simulation de réponse à incident pour Deloitte. Analyse de logs et rédaction de rapports pour identifier des activités suspectes.
-
-Python Analyse de Logs Gestion de Crise
+✨ *N’hésite pas à explorer mes projets ou à me contacter pour échanger sur la cybersécurité, le cloud ou le conseil tech !*
