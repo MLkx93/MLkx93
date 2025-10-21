@@ -1,6 +1,6 @@
 Malak Faiz | Étudiante Ingénieure en Cybersécurité & Cloud
 
-<a href="https://www.linkedin.com/in/malak-faiz-4962aa217/" target="_blank">
+<a href="https://www.linkedin.com/in/malakfaiz" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
 </a>
 <a href="mailto:malak.faiz@usmba.ac.ma">
@@ -15,7 +15,7 @@ Passionnée par la stratégie de cybersécurité et la sécurisation des transfo
 
 🌱 Je me spécialise dans l'architecture de sécurité, la conformité (ISO 27001, RGPD) et l'analyse de risques (EBIOS RM).
 
-🎯 Mon ambition : devenir Consultante en Cybersécurité & Confiance Numérique en France.
+🎯 Mon ambition : développer mon expertise en architecture et stratégie de cybersécurité dans un contexte international.
 
 💬 Langues : Français (Avancé), Anglais (Professionnel), Arabe (Langue maternelle).
 
