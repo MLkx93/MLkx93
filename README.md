@@ -1,6 +1,6 @@
 Malak Faiz | Étudiante Ingénieure en Cybersécurité & Cloud
 
-<a href="https://www.linkedin.com/in/malakfaiz" target="_blank">
+<a href="https://www.linkedin.com/in/malak-faiz-4962aa217/" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
 </a>
 <a href="mailto:malak.faiz@usmba.ac.ma">
