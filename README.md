@@ -1,6 +1,6 @@
 # 👩‍💻 Malak Faiz | Étudiante Ingénieure en Cybersécurité & Cloud
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malakfaiz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-faiz-4962aa217/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malak.faiz@usmba.ac.ma)
 
 ---
@@ -12,8 +12,8 @@ Mon ambition est de **concilier expertise technique et vision stratégique** pou
 
 🎓 Étudiante en 5ème année à l’**École Nationale des Sciences Appliquées (ENSA) de Fès**  
 ☁️ Spécialisation : **Réseaux, Cloud & Sécurité**  
-💡 Objectif : Devenir **Consultante en Cybersécurité & Confiance Numérique** en France  
-💬 Langues : Français (avancé), Anglais (professionnel), Arabe (natif)  
+💡 En quête d’expériences nationales ou internationales pour me développer dans le **cybercloud, la sécurité opérationnelle** et l’**ingénierie des systèmes**  
+💬 Langues : Français (avancé), Anglais (avancé), Arabe (natif)  
 
 ---
 
